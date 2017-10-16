@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.133.0",
+    "graphql": "^0.11.7"
+  }
+}

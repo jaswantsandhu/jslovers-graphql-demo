@@ -1,0 +1,3 @@
+{
+    "body": "{ \"query\" : \"{ Posts { guid, heading, context } }\" }"
+}
